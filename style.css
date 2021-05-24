@@ -193,7 +193,7 @@ header h2{
         text-align:center;
      }
        label.image{
-           padding-left:  2px;
+           padding-left: 0;
            height: 80px;
        }
      
